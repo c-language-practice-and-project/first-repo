@@ -23,16 +23,8 @@ int main(){
     //p = 10.22;
     //printf("%f", p);
 
-
-
-
-
-
-
-
-
-
-
+    //char a = 'A';
+    //printf("%c", a);
 
 
     return 0;
