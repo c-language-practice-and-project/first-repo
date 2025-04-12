@@ -45,5 +45,36 @@ int main(){
 
 
 
+    //day 2
+
+    //char name[20];
+    //printf("Enter Your Name: ");
+    //scanf("%s", &name);
+    //printf("%s", name);
+
+    //char name[20];
+    //printf("Enter your name: ");
+    //scanf("%s", &name);
+    //printf("Hey, %s", name);
+
+    //char name[20];
+    //printf("Enter your name: ");
+    //scanf("%s", &name);
+    //printf("Hey, %s What do you do?", name);
+
+    //char name[12];
+    //printf("Enter your name: ");
+    //fgets(name, sizeof(name), stdin);
+    //printf("%s", name);
+
+    //char name[12];
+    //printf("Enter your name: ");
+    //fgets(name, sizeof(name), stdin);
+    //puts(name);
+
+
+
+
+
     return 0;
 }
