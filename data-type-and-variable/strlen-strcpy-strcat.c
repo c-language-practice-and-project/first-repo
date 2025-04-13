@@ -58,7 +58,20 @@ int main() {
     printf("%s %s", x, y);
     */
 
+    /*
+    char x[20], y[20];
+    scanf("%s %s", &x, &y);
+    strcat(x, y);
+    printf("%s %s", x, y); */
 
+
+    /*
+        today learn
+        1, strlent - string length
+        2, strcpy - string copy: copy y to pass in x and replace x before value.
+        3, strcar - string concatenate : y value copy paste in x and addition to x before value link x before value + copy value .
+
+    */
 
 
 
