@@ -37,6 +37,28 @@ int main() {
     printf("%d", length);
     */
 
+    //char name[10];
+    //char name2[20];
+    //or
+    //char name[20], name2[20];
+
+    /*
+    char x[20], y[20];
+    scanf("%s %s", &x, &y);
+    printf("%s", x);
+    strcpy(x, y);
+    printf("%s %s", x, y); */
+
+
+    /*
+    char x[20], y[20];
+    scanf("%s", &y);
+    //printf("this is x: %s", x);
+    strcpy(x, y);
+    printf("%s %s", x, y);
+    */
+
+
 
 
 
